@@ -65,4 +65,4 @@ The provided dataset, `fuel_consumption.csv`, includes the following features:
 * Consider feature engineering and regularization techniques to enhance model accuracy and generalization.
 * Visualize results to gain insights into relationships between variables and model predictions.
 
-**We welcome feedback and suggestions for improvement!**
+**Feel free to give feedback and suggestions for improvement!**
